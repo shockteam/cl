@@ -20,7 +20,7 @@ To generate HTML page with links to craigslist ads with 'ducati' subject in Bay 
 
     ./craigslist_search.py -r 'sfbay,sandiego' -k ducati > ducs.html
 
-To open this page in your browser: File > Open File > Desktop > ducs.html
+To open this page in your browser: File > Open File > Desktop > ducs.html [http://OXYEHHO.COM/MOCKBA/ducs.html](See example here)
 
 To generate HTML page with links to craigslist ads with 'S1000RR' subject in *all* California locations:
 
