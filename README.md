@@ -20,13 +20,13 @@ To generate HTML page with links to craigslist ads with 'ducati' subject in Bay 
 
     ./craigslist_search.py -r 'sfbay,sandiego' -k ducati > ducs.html
 
-To open this page in your browser: File > Open File > Desktop > ducs.html [See example here](http://OXYEHHO.COM/MOCKBA/ducs.html)
+To open this page in your browser: File > Open File > Desktop > ducs.html ([see example here](http://OXYEHHO.COM/MOCKBA/ducs.html))
 
 To generate HTML page with links to craigslist ads with 'S1000RR' subject in *all* California locations:
 
     ./craigslist_search.py -r all -k s1000rr > bimmers.html
 
-To open this page in your browser: File > Open File > Desktop > bimmers.html [See example here](http://OXYEHHO.COM/MOCKBA/bimmers.html)
+To open this page in your browser: File > Open File > Desktop > bimmers.html ([see example here](http://OXYEHHO.COM/MOCKBA/bimmers.html))
 
 ### List of CA regions
 
