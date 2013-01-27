@@ -24,9 +24,9 @@ To open this page in your browser: File > Open File > Desktop > ducs.html [See e
 
 To generate HTML page with links to craigslist ads with 'S1000RR' subject in *all* California locations:
 
-    ./craigslist_search.py -r all -k s1000rr > bimmers.html [See example here](http://OXYEHHO.COM/MOCKBA/bimmers.html)
+    ./craigslist_search.py -r all -k s1000rr > bimmers.html
 
-To open this page in your browser: File > Open File > Desktop > bimmers.html
+To open this page in your browser: File > Open File > Desktop > bimmers.html [See example here](http://OXYEHHO.COM/MOCKBA/bimmers.html)
 
 ### List of CA regions
 
