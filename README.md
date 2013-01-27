@@ -1,6 +1,6 @@
 # Search Craigslist by Multiple CA Regions
 
-Search all or few CA craiglist regions at once
+Search all or some CA craiglist regions at once
 
 -----------------------
 
@@ -16,14 +16,43 @@ Install required packages:
 
 ### Usage examples
 
-To generate HTML page with links to craigslist ads with 'ducati' subject in Bay Area and San Diego areas:
+To generate HTML page with links to craigslist ads with 'ducati' subject in Bay Area and San Diego areas (see complete list of CA regions below):
 
     ./craigslist_search.py -r 'sfbay,sandiego' -k ducati > ducs.html
 
 To open this page in your browser: File > Open File > Desktop > ducs.html
 
-To generate HTML page with links to craigslist ads with 'S1000RR' subject in all California locations:
+To generate HTML page with links to craigslist ads with 'S1000RR' subject in *all* California locations:
 
     ./craigslist_search.py -r all -k s1000rr > bimmers.html
 
 To open this page in your browser: File > Open File > Desktop > bimmers.html
+
+### List of CA regions
+
+*   bakersfield
+*   chico
+*   fresno
+*   goldcountry
+*   hanford
+*   humboldt
+*   imperial
+*   inlandempire
+*   mendocino
+*   merced
+*   modesto
+*   monterey
+*   orangecounty
+*   palmsprings
+*   redding
+*   sacramento
+*   santabarbara
+*   santamaria
+*   siskiyou
+*   susanville
+*   ventura
+*   visalia
+*   yubasutter
+*   sfbay
+*   losangeles
+*   sandiego
